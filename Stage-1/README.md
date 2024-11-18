@@ -1,6 +1,6 @@
 # My Portfolio
 
-This is my responsive portfolio website built using HTML and CSS.
+This is  portfolio website built using HTML and CSS.
 
 ## Sections
 - Header
