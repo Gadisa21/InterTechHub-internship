@@ -9,13 +9,12 @@ This is my responsive portfolio website built using HTML and CSS.
 - Contact
 
 ## Links
-- **Live Demo:** [Your Live Demo Link](#)
-- **GitHub Repo:** [Your GitHub Repo Link](#)
+- **Live Demo:** [https://portfoliog12.netlify.app/](#)
+
 
 ## Features
 - Fully responsive design
-- Unique layout
+
 - Clean and modern styling
 
-## Contact
-Feel free to reach out via the contact form on the website.
+
